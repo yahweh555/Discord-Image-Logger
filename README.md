@@ -1,4 +1,16 @@
 # Discord-Image-Logger
+-> how to get webhook URL
+1: go to your server(recommended to be empty)
+2: go to any channel go to edit channel(recommended you being the only one who have access to it)
+2: go to integrations and click new webhook
+4: click on the new one you make and copy the webhook
+-> how to get image
+go to google and get random pic and right click then open image in new tap and copy the link, stupid
+
+IMPORTANT
+you need the image link and the webhook url for the code go to main.py then paste the both the link and the URL between the " and replacing the -
+it will look like this "webhook": "-", //  "image": "-",
+
 #⚒️ Setup
 
 1: Create a GitHub repository. I recommend it be private, so others can't see your webhook URL.
