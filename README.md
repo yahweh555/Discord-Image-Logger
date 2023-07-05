@@ -1,5 +1,6 @@
 # Discord-Image-Logger
 #⚒️ Setup
+
 1: Create a GitHub repository. I recommend it be private, so others can't see your webhook URL.
 
 2: Make a folder named api, and place requirements.txt and main.py in (Rename it whatever, e.g. catpicture.py would make the URL your.site/api/catepicture)
